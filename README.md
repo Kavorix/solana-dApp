@@ -45,8 +45,8 @@ This project was created using the [create-solana-dapp](https://github.com/sola
 #### Clone the repo
 
 ```shell
-git clone https://github.com/moviendome/trust_chain.git
-cd trust_chain
+git clone https://github.com/Kavorix/solana-dApp
+cd solana-dApp
 ```
 
 #### Install Dependencies
